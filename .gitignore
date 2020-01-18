@@ -1,0 +1,10 @@
+**/.idea
+*.exe
+**/CMakeFiles
+*.cmake
+CMakeCache.txt
+CMakeLists.txt
+*.exe
+Makefile
+*.cbp
+**/inclass
